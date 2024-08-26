@@ -1,4 +1,4 @@
 webpack.config.js
-bundle
+dist
 index.test.js
 .eslintrc.js
